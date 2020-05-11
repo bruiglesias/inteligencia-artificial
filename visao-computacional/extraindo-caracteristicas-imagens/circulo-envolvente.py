@@ -2,7 +2,7 @@
 #
 # Programa: segmenta o objeto e envolve-o em um circulo
 #
-# Autor: Bruno P. Iglesis
+# Autor: Bruno P. Iglesias
 
 import cv2
 import numpy as np
